@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/lethal-bubble/lethal-bubble/main/GitHub%20Banner.png" width="1000" height="200">
+<img src="https://raw.githubusercontent.com/O-Morgan/O-Morgan/main/GitHub%20Banner.png" width="1000" height="200">
+
 
 <h3 align="center">A Passionate AWS Cloud Enthusiast</h3> 
 
@@ -46,6 +47,7 @@ I have always been passionate about technology, and it’s this passion that led
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 
 
 
