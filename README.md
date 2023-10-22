@@ -17,17 +17,17 @@ I have always been passionate about technology, and it’s this passion that led
 ---
 
 <p align="center">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/cpb-terraformer-badge.svg" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-certified-cloud-practitioner.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-certified-solutions-architect-associate.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-cloud-quest-cloud-practitioner.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-cloud-quest-solutions-architect.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-educate-getting-started-with-compute.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-educate-getting-started-with-networking.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-educate-getting-started-with-storage.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-educate-introduction-to-cloud-101.png" width="70">
-  <img src="https://github.com/lethal-bubble/lethal-bubble/blob/main/aws-knowledge-architecting.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/cpb-terraformer-badge.svg" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-certified-cloud-practitioner.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-certified-solutions-architect-associate.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-cloud-quest-cloud-practitioner.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-cloud-quest-solutions-architect.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-getting-started-with-compute.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-getting-started-with-networking.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-getting-started-with-storage.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-introduction-to-cloud-101.png" width="70">
 </p>
+
 
 ---
 
@@ -47,21 +47,6 @@ I have always been passionate about technology, and it’s this passion that led
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!--
