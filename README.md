@@ -12,7 +12,7 @@ I have always been passionate about technology, and it’s this passion that led
 
 <div align="center">
 
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=lethal-bubble&theme=radical&show_icons=true)</div>
+![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-Morgan&theme=radical&show_icons=true)</div>
 
 ---
 
@@ -28,6 +28,7 @@ I have always been passionate about technology, and it’s this passion that led
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-introduction-to-cloud-101.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-knowledge-architecting.png" width="70">
 </p>
+
 
 ---
 
