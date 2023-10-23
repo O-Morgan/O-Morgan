@@ -32,7 +32,7 @@ I have always been passionate about technology, and it’s this passion that led
 
 ---
 
-- 🔭 I’m currently working on [AWS&Terraform](https://github.com/lethal-bubble/terraform-beginner-bootcamp-2023)
+- 🔭 I’m currently working on [AWS&Terraform](https://github.com/O-Morgan/terraform-beginner-bootcamp-2023)
 
 - 📫 How to reach me **owen.morgan7300@gmail.com**
 
@@ -48,6 +48,14 @@ I have always been passionate about technology, and it’s this passion that led
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+
+
+
+
+
+
+
 
 
 <!--
