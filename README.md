@@ -32,6 +32,7 @@ I have always been passionate about technology, and it’s this passion that led
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-knowledge-cloud-essentials.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/well-architected-proficient.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/lfc108-cybersecurity-essentials.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/badge-gitops.png" width="70">
   </p>
 
 
