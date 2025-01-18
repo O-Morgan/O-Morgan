@@ -25,12 +25,13 @@ I have always been passionate about technology, and it’s this passion that led
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-getting-started-with-compute.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-getting-started-with-networking.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-getting-started-with-storage.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-getting-started-with-databases.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-educate-introduction-to-cloud-101.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-knowledge-cloud-essentials.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/well-architected-proficient.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-knowledge-architecting.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-partner-technical-accredited%20(1).png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/lfs200.png" width="70">
-  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-knowledge-cloud-essentials.png" width="70">
-  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/well-architected-proficient.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/lfc108-cybersecurity-essentials.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/badge-gitops.png" width="70">
   </p>
