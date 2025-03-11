@@ -34,7 +34,7 @@ I have always been passionate about technology, and it’s this passion that led
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/lfs200.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/lfc108-cybersecurity-essentials.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/badge-gitops.png" width="70">
-  <img src="[https://github.com/O-Morgan/O-Morgan/blob/main/lfca-linux-foundation-certified-it-associate.png" width="70">
+  <img src="https://github.com/O-Morgan/O-Morgan/blob/main/lfca-linux-foundation-certified-it-associate.png" width="70">
   <img src="https://github.com/O-Morgan/O-Morgan/blob/main/aws-re-start-graduate.png" width="70">
 </p>
 
